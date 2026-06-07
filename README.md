@@ -7,7 +7,7 @@
 </head>
 <body   bgcolor="#698B69">
     <font face="arial">
-        <table border="1" width="90%" align="center">
+        <table border="0" width="90%" align="center">
             <tr bgcolor="white"><!--Barra de navegação-->
                <td><!--Logotipo-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
@@ -17,27 +17,27 @@
                 <td align="center" ><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA" target="_blank">Sobre |</a>
                 </td>
                 <td align="center">
-                    <a href="https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams">Países</a>
+                    <a href="https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams" target="_blank">Países</a>
                 </td>
                 <td align="center"><p>Mais |</p></td>
                </td><!--Fim Logotipo-->
                </tr>
-               <tr align="center"><td colspan="4"><img src="330px-MetLife_Stadium_2022-removebg-preview.png" width="350"></td></tr>
+               <tr align="center"><td colspan="5"><img src="330px-MetLife_Stadium_2022-removebg-preview.png" width="350"></td></tr>
                <tr>
                 <td>
                     <p>Menu</p>
                 </td>
-                <td colspan="3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, non. Fuga, officia? Quisquam provident, quod suscipit odit minus deleniti similique architecto! Officiis at quae ullam! Iste veniam hic temporibus quaerat?</td>
-                <td><a href="https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/site-da-nbc-aponta-os-25-melhores-jogadores-da-copa-com-apenas-dois-brasileiros.ghtml">Destaques</a></td>
+                <td colspan="3">O Brasil, comandado pelo técnico Carlo Ancelotti, encerrou sua fase de amistosos com vitória por 2 a 1 contra o Egito, mas ligou o sinal de alerta máximo com problemas físicos no elenco.</td>
+                <td><a href="https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/site-da-nbc-aponta-os-25-melhores-jogadores-da-copa-com-apenas-dois-brasileiros.ghtml" target="_blank">Jogadores Destaques na Copa de 2026</a></td>
                </tr>
                <tr>
-                <td><a href="https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16507913/grupos-copa-do-mundo-como-ficaram-chaves-datas-horarios-jogos-com-ultimas-selecoes-classificadas">Grupos</a> <br><br></td>
-                <td colspan="3"><br><br><br></td>
-                <td>Lorem ipsum dolor sit amet <br><br></td>
+                <td><a href="https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16507913/grupos-copa-do-mundo-como-ficaram-chaves-datas-horarios-jogos-com-ultimas-selecoes-classificadas" target="_blank">Grupos</a> <br><br></td>
+                <td colspan="3">Problemas com vistos: Devido às fortes tensões diplomáticas e restrições impostas pelos Estados Unidos, os jogadores e a comissão técnica do Irã receberam vistos que não permitem que eles durmam em território americano</td>
+                <td>Lamine Yamal (Espanha): A grande revelação do futebol espanhol, cotado como um dos atletas mais valiosos da competição. <br><br></td>
                </tr>
-               <tr><td><a href="https://g1.globo.com/mundo/noticia/2026/06/06/brasil-copa-do-mundo-2026-datas-horarios-jogos-selecao.ghtml">Jogos do Brasil</a> <br><br></td>
-            <td colspan="3"></td>
-        <td>Lorem ipsum dolor sit amet
+               <tr><td><a href="https://g1.globo.com/mundo/noticia/2026/06/06/brasil-copa-do-mundo-2026-datas-horarios-jogos-selecao.ghtml" target="_blank">Jogos do Brasil</a> <br><br></td>
+                <td colspan="3">Na última atualização do Ranking da FIFA divulgada antes da abertura da Copa, a Argentina assumiu a liderança mundial, ultrapassando a França e a Espanha. O Brasil aparece na 6ª colocação.</td>
+        <td>Kylian Mbappé (França): Considerado um dos jogadores mais decisivos do mundo na atualidade, lidera o setor ofensivo francês
             <br><br>
         </td>
     </tr>
@@ -50,10 +50,10 @@
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://www.sportingnews.com/br/futebol/noticias/copa-do-mundo-2026-fornecedoras-e-patrocinadoras-de-todas-selecoes/d9ba79d0197500cb82196f5c"><br><br><br>Parceiros / Patrocinadores</a><br><br><br><br></td>
-        <td><a href="https://viagemeturismo.abril.com.br/mundo/copa-do-mundo-confira-a-programacao-nas-cidades-sede-dos-estados-unidos/">Eventos</a></td>
-        <td><a href="https://www.fifa.com/pt/tournaments/mens/worldcup/articles/veja-todos-os-campeoes-copa-mundo-1982-2022-alemanha-brasil-argentina-franca">Galeria de Campeões</a></td>
-        <td>Links úteis</td>
+        <td><a href="https://www.sportingnews.com/br/futebol/noticias/copa-do-mundo-2026-fornecedoras-e-patrocinadoras-de-todas-selecoes/d9ba79d0197500cb82196f5c" target="_blank"><br><br><br>Parceiros / Patrocinadores</a><br><br><br><br></td>
+        <td><a href="https://viagemeturismo.abril.com.br/mundo/copa-do-mundo-confira-a-programacao-nas-cidades-sede-dos-estados-unidos/" target="_blank">Eventos</a></td>
+        <td><a href="https://www.fifa.com/pt/tournaments/mens/worldcup/articles/veja-todos-os-campeoes-copa-mundo-1982-2022-alemanha-brasil-argentina-franca" target="_blank">Galeria de Campeões</a></td>
+        <td><a href="https://www.fifa.com/pt" target="_blank">Links Úteis</a></td>
     </tr>
     <tr>
         <td colspan="5" align="center"><p>Todos os Direitos Reservados</p></td>
