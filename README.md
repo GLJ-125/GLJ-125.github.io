@@ -1,1 +1,68 @@
-# GLJ-125.github.io
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copa 26</title>
+</head>
+<body   bgcolor="#698B69">
+    <font face="arial">
+        <table border="1" width="90%" align="center">
+            <tr bgcolor="white"><!--Barra de navegação-->
+               <td><!--Logotipo-->
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
+                <td align="center"  >
+                    <a href="Index.html">Home |</a>
+                </td>
+                <td align="center" ><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA">Sobre |</a>
+                </td>
+                <td align="center">
+                    <a href="https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams">Países</a>
+                </td>
+                <td align="center"><p>Mais |</p></td>
+               </td><!--Fim Logotipo-->
+               </tr>
+               <tr align="center"><td colspan="4"><img src="330px-MetLife_Stadium_2022-removebg-preview.png" width="350"></td></tr>
+               <tr>
+                <td>
+                    <p>Menu</p>
+                </td>
+                <td colspan="3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, non. Fuga, officia? Quisquam provident, quod suscipit odit minus deleniti similique architecto! Officiis at quae ullam! Iste veniam hic temporibus quaerat?</td>
+                <td><a href="https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/site-da-nbc-aponta-os-25-melhores-jogadores-da-copa-com-apenas-dois-brasileiros.ghtml">Destaques</a></td>
+               </tr>
+               <tr>
+                <td><a href="https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16507913/grupos-copa-do-mundo-como-ficaram-chaves-datas-horarios-jogos-com-ultimas-selecoes-classificadas">Grupos</a> <br><br></td>
+                <td colspan="3"><br><br><br></td>
+                <td>Lorem ipsum dolor sit amet <br><br></td>
+               </tr>
+               <tr><td><a href="https://g1.globo.com/mundo/noticia/2026/06/06/brasil-copa-do-mundo-2026-datas-horarios-jogos-selecao.ghtml">Jogos do Brasil</a> <br><br></td>
+            <td colspan="3"></td>
+        <td>Lorem ipsum dolor sit amet
+            <br><br>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/FIFA_series_logo_%282010%E2%80%932020%29.svg" width="150"><br></td>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/FIFA_World_Cup_2018_Final_13_Tasnim.jpg" width="150"><br></td>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="150"><br></td>
+        <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/BMO_Field_in_2016.png" width="150"><br></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><a href="https://www.sportingnews.com/br/futebol/noticias/copa-do-mundo-2026-fornecedoras-e-patrocinadoras-de-todas-selecoes/d9ba79d0197500cb82196f5c"><br><br><br>Parceiros / Patrocinadores</a><br><br><br><br></td>
+        <td><a href="https://viagemeturismo.abril.com.br/mundo/copa-do-mundo-confira-a-programacao-nas-cidades-sede-dos-estados-unidos/">Eventos</a></td>
+        <td><a href="https://www.fifa.com/pt/tournaments/mens/worldcup/articles/veja-todos-os-campeoes-copa-mundo-1982-2022-alemanha-brasil-argentina-franca">Galeria de Campeões</a></td>
+        <td>Links úteis</td>
+    </tr>
+    <tr>
+        <td colspan="5" align="center"><p>Todos os Direitos Reservados</p></td>
+    </tr>
+               </table>
+    </font>
+
+
+
+
+</body>
+</html>
