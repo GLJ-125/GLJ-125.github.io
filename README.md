@@ -14,7 +14,7 @@
                 <td align="center"  >
                     <a href="Index.html">Home |</a>
                 </td>
-                <td align="center" ><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA">Sobre |</a>
+                <td align="center" ><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA" target="_blank">Sobre |</a>
                 </td>
                 <td align="center">
                     <a href="https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/teams">Países</a>
