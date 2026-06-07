@@ -7,7 +7,7 @@
 </head>
 <body   bgcolor="#698B69">
     <font face="arial">
-        <table border="0" width="90%" align="center">
+        <table border="1" width="90%" align="center">
             <tr bgcolor="white"><!--Barra de navegação-->
                <td><!--Logotipo-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
@@ -40,6 +40,15 @@
         <td>Kylian Mbappé (França): Considerado um dos jogadores mais decisivos do mundo na atualidade, lidera o setor ofensivo francês
             <br><br>
         </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="3"><p>Situação de Neymar: O camisa 10 segue em tratamento intensivo na Granja Comary devido a uma lesão de grau dois na panturrilha</p></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="3"><p>A FIFA preparou três festas inaugurais, uma para cada país-sede, com astros da música mundial: <br>
+            No México (11 de junho): Shakira apresentará "Dai Dai", a música oficial do torneio, ao lado de Burna Boy e J Balvin.No Canadá (12 de junho) <br> Alanis Morissette e Michael Bublé comandam a festa em Toronto.Nos Estados Unidos (12 de junho) <br> A brasileira Anitta, junto com Katy Perry e Lisa (do BLACKPINK), fará o show de abertura em Los Angeles.</p></td>
     </tr>
     <tr bgcolor="gray">
         <td></td>
