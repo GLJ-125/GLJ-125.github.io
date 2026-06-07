@@ -7,7 +7,7 @@
 </head>
 <body   bgcolor="#698B69">
     <font face="arial">
-        <table border="0" width="90%" align="center">
+        <table border="1" width="90%" align="center">
             <tr bgcolor="white"><!--Barra de navegação-->
                <td><!--Logotipo-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
@@ -22,15 +22,15 @@
                 <td align="center"><p>Mais |</p></td>
                </td><!--Fim Logotipo-->
                </tr>
-               <tr align="center"><td colspan="5"><img src="330px-MetLife_Stadium_2022-removebg-preview.png" width="350"></td></tr>
-               <tr>
+               <tr align="center"><td colspan="5" bgcolor="gray"><img src="330px-MetLife_Stadium_2022-removebg-preview.png" width="350"></td></tr>
+               <tr bgcolor="93B0BA">
                 <td>
                     <p>Menu</p>
                 </td>
                 <td colspan="3">O Brasil, comandado pelo técnico Carlo Ancelotti, encerrou sua fase de amistosos com vitória por 2 a 1 contra o Egito, mas ligou o sinal de alerta máximo com problemas físicos no elenco.</td>
                 <td><a href="https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/site-da-nbc-aponta-os-25-melhores-jogadores-da-copa-com-apenas-dois-brasileiros.ghtml" target="_blank">Jogadores Destaques na Copa de 2026</a></td>
                </tr>
-               <tr>
+               <tr bgcolor="gray">
                 <td><a href="https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16507913/grupos-copa-do-mundo-como-ficaram-chaves-datas-horarios-jogos-com-ultimas-selecoes-classificadas" target="_blank">Grupos</a> <br><br></td>
                 <td colspan="3">Problemas com vistos: Devido às fortes tensões diplomáticas e restrições impostas pelos Estados Unidos, os jogadores e a comissão técnica do Irã receberam vistos que não permitem que eles durmam em território americano</td>
                 <td>Lamine Yamal (Espanha): A grande revelação do futebol espanhol, cotado como um dos atletas mais valiosos da competição. <br><br></td>
@@ -41,14 +41,14 @@
             <br><br>
         </td>
     </tr>
-    <tr>
+    <tr bgcolor="gray">
         <td></td>
         <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/FIFA_series_logo_%282010%E2%80%932020%29.svg" width="150"><br></td>
         <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/FIFA_World_Cup_2018_Final_13_Tasnim.jpg" width="150"><br></td>
         <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="150"><br></td>
         <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/BMO_Field_in_2016.png" width="150"><br></td>
     </tr>
-    <tr>
+    <tr bgcolor="B39894">
         <td></td>
         <td><a href="https://www.sportingnews.com/br/futebol/noticias/copa-do-mundo-2026-fornecedoras-e-patrocinadoras-de-todas-selecoes/d9ba79d0197500cb82196f5c" target="_blank"><br><br><br>Parceiros / Patrocinadores</a><br><br><br><br></td>
         <td><a href="https://viagemeturismo.abril.com.br/mundo/copa-do-mundo-confira-a-programacao-nas-cidades-sede-dos-estados-unidos/" target="_blank">Eventos</a></td>
@@ -56,7 +56,7 @@
         <td><a href="https://www.fifa.com/pt" target="_blank">Links Úteis</a></td>
     </tr>
     <tr>
-        <td colspan="5" align="center"><p>Todos os Direitos Reservados</p></td>
+        <td colspan="5" align="center" bgcolor="gray"><p>Todos os Direitos Reservados</p></td>
     </tr>
                </table>
     </font>
