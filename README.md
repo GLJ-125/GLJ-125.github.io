@@ -12,7 +12,7 @@
                <td><!--Logotipo-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
                 <td align="center"  >
-                    <a href="Index.html">Home |</a>
+                    <a href="index.html">Home |</a>
                 </td>
                 <td align="center" ><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA" target="_blank">Sobre |</a>
                 </td>
