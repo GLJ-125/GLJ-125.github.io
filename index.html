@@ -7,7 +7,7 @@
 </head>
 <body   bgcolor="#698B69">
     <font face="arial">
-        <table border="1" width="90%" align="center">
+        <table border="0" width="90%" align="center">
             <tr bgcolor="white"><!--Barra de navegação-->
                <td><!--Logotipo-->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/2026_FIFA_World_Cup_emblem.svg" width="50">
